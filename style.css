@@ -3,7 +3,7 @@
     margin: 0;
 }
 body {
-    background-color: rgb(160, 160, 158);
+    background-color: rgb(200, 200, 196);
 }
 .header {
     text-align: center;
@@ -100,7 +100,7 @@ body {
     z-index: 2;
 }
 #slide1:checked~.switching .bullets [for="slide1"], #slide2:checked~.switching .bullets [for="slide2"], #slide3:checked~.switching .bullets [for="slide3"], #slide4:checked~.switching .bullets [for="slide4"] {
-    background: rgb(160, 160, 158);
+    background: rgb(200, 200, 196);
 }
 #slide2:checked ~ #slids .slide-content {
   transform: translateX(-100%);
