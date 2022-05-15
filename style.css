@@ -113,7 +113,7 @@ body {
 }
 
 #slide1:checked ~ .switching .slide_text .slide-content-text {
-    transform: translateX(620%);
+    transform: translateX(680%);
 }
 #slide2:checked ~ .switching .slide_text .slide-content-text {
     transform: translateX(130%);
@@ -122,7 +122,7 @@ body {
     transform: translateX(-250%);
 }
 #slide4:checked ~ .switching .slide_text .slide-content-text {
-    transform: translateX(-650%);
+    transform: translateX(-680%);
 }
 
 .footer_container {
