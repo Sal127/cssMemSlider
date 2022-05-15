@@ -113,16 +113,16 @@ body {
 }
 
 #slide1:checked ~ .switching .slide_text .slide-content-text {
-    transform: translateX(515%);
+    transform: translateX(620%);
 }
 #slide2:checked ~ .switching .slide_text .slide-content-text {
-    transform: translateX(90%);
+    transform: translateX(130%);
 }
 #slide3:checked ~ .switching .slide_text .slide-content-text {
-    transform: translateX(-200%);
+    transform: translateX(-250%);
 }
 #slide4:checked ~ .switching .slide_text .slide-content-text {
-    transform: translateX(-610%);
+    transform: translateX(-650%);
 }
 
 .footer_container {
