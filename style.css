@@ -216,7 +216,7 @@ body {
         width: 80%;
     }
     #slids .inner {
-        gap: 3%;
+        gap: 4%;
     }
     #slide1:checked ~ .switching .slide_text .slide-content-text {
         transform: translateX(430%);
